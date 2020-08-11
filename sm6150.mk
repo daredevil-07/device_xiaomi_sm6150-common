@@ -135,7 +135,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.bluetooth.audio@2.0-impl \
     audio.bluetooth.default \
-    BluetoothQti \
+    libbluetooth_qti \
     libbthost_if \
     vendor.qti.hardware.bluetooth_audio@2.0.vendor
 
